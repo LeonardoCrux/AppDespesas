@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432189787045",
+    "firebase_url": "https://appdespesas-2713d.firebaseio.com",
+    "project_id": "appdespesas-2713d",
+    "storage_bucket": "appdespesas-2713d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432189787045:android:a1ba0c3d78f5714149764c",
+        "android_client_info": {
+          "package_name": "com.pi.appdespesas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432189787045-ph2doc72v59nda14n358e5mhqd2i02ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi.appdespesas",
+            "certificate_hash": "4e40902b2a58768032fb62c5da218e36764c6d7c"
+          }
+        },
+        {
+          "client_id": "432189787045-c1q6nnvipvna1c8a0d5g803tisat9dmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBcLgVNWgAHXRrLS_BjWxJe_wE0Gh0EH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432189787045-c1q6nnvipvna1c8a0d5g803tisat9dmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
